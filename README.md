@@ -13,3 +13,4 @@ SECOND PROJECT: <br>
 SUMMARY -> SECOND PROJECT <br>
 I have learned plenty of new things about JavaScript, SCSS and logic that I will must know in future in next more advanced projects. <br>
 I know how to make increase and decrease buttons and stuff on websites thanks that project. I developed again new skills in SCSS. <br>
+That gave a lot of knew knowledge.
