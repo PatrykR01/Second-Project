@@ -8,7 +8,7 @@ SECOND PROJECT: <br>
 3. Learned new logic in functions. <br>
 4. Developing skills in SCSS. <br>
 5. Making nice and modern styles for websites. <br>
-<br><br><br>
+<br><br>
 ![Zrzut ekranu (4)](https://user-images.githubusercontent.com/99299154/194189855-cee4d558-1f14-4895-b746-165ce0e39fa2.png)<br><br>
 SUMMARY -> SECOND PROJECT <br>
 I have learned plenty of new things about JavaScript, SCSS and logic that I will must know in future in next more advanced projects. <br>
