@@ -1,6 +1,6 @@
 # SecondProject
 This is the Second Project in developing my skills. In this project, I learned more JavaScript, SCSS and things about logical thinking and solving problems.
-<br><br><br>
+<br><br>
 
 SECOND PROJECT: <br>
 1. Learned let, var and const and their meaning and which one I should take in which situation. <br>
